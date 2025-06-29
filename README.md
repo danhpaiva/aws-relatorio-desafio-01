@@ -43,3 +43,6 @@ Alguns scripts e processos automatizados rodavam em servidores EC2 dedicados, co
 
 A adoção de serviços escaláveis, inteligentes e com cobrança sob demanda da AWS permitiu à Abstergo Industries reduzir custos operacionais, otimizar sua infraestrutura e aumentar a eficiência no uso de recursos. <br> O uso combinado do EC2 Auto Scaling, S3 Intelligent-Tiering e AWS Lambda gerou impacto financeiro positivo já no primeiro mês de operação, servindo como base para futuras iniciativas de modernização e economia em nuvem.
 
+<p align="center">
+    <img src="https://github.com/danhpaiva/aws-relatorio-desafio-01/blob/main/relatorio.png?raw=true" width="600" alt="Relatorio">
+</p>
